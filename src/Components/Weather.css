@@ -1,0 +1,25 @@
+#weather {
+    width: 20vw;
+    margin: auto;
+    padding: 10px;
+    background-color: #363636;
+    border-radius: 20px;
+    border: 3px whitesmoke solid;
+    margin-top: 15vh;
+    color: whitesmoke;
+}
+
+#search {
+    display: flex;
+    justify-content: space-around;
+    width: 20vw;
+    padding: 5px;
+}
+
+input {
+    border-radius: 20px;
+}
+
+body {
+    background-color: #797979;
+}
