@@ -1,3 +1,8 @@
 # Weather-App
 
-Pagina feita para consulta de clima. Feita em React e para testar "fetch" e o uso de API'S.
+Pagina feita para consulta de clima.
+
+## Estudado
+* ReactJS
+* Fetch
+* API'S
