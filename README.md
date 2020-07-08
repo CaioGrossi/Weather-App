@@ -1,6 +1,6 @@
 # Weather-App
 
-Pagina feita para consulta de clima.
+Pagina feita para consulta de clima usando a [Weather API](https://openweathermap.org/api)
 
 ## Estudado
 * ReactJS
