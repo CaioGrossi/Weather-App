@@ -1,6 +1,6 @@
 # Wheater app
 Aplicativo web para mostrar clima na localização pesquisada. A aplicação consome a API [Weather API](https://openweathermap.org/api).
-![](/demo/wheather-app.gif)
+![wheather app](/demo/wheather-app.gif)
 
 ## Pré-requisitos
 Ter uma versão atualizada do NodeJS instalada em sua maquina e um gerenciador de pacotes (yarn ou npm).
